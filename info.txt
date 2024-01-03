@@ -1,0 +1,19 @@
+Parameters monitor
+
+Menu  
+   - Set alarm setpoint: allows for sending arduino new water flow alarm setpoint (disabled if arduino is disconnected)
+
+Turbo setup - choice of COM ports for turbo pumps
+Cryo setup - choice of COM ports for cryo pumps
+
+In both setups:
+   - Pump name: COM - sets pump connection
+   - Disable/Enable COM change: pump name - prevents from accidental pump disconnections
+
+Info - this one.
+
+Version 3.5
+Author: Bart³omiej Turowski
+International Research Centre MagTop, Institute of Physics, Polish Academy of Sciences
+Aleja Lotnikow 32/46, PL-02668 Warsaw, Poland
+Date: 13.07.2018
