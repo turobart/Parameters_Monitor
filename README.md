@@ -7,5 +7,5 @@ GUI and logic for acquisition of parameters form:
 - Edwards Cryo-Torr Cryopumps.
 
 Data is saved in custom format in plain text file, suitable fot the other programme: PM_graph_viewer.
----
-The .spec file is used for .exe creation with [PyInstaller](https://pyinstaller.org/)
+
+The .spec file is used for .exe creation with [PyInstaller](https://pyinstaller.org/).
