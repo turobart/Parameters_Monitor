@@ -6,6 +6,6 @@ GUI and logic for acquisition of parameters form:
 - turbo pumps;
 - Edwards Cryo-Torr Cryopumps.
 
-Data is saved in custom format in plain text file, suitable fot the other program: PM_graph_viewer.
+Data is saved in custom format in plain text file, suitable for the other program: PM_graph_viewer.
 
 The .spec file is used for .exe creation with [PyInstaller](https://pyinstaller.org/).
